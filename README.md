@@ -94,7 +94,7 @@ Key Design Decisions:
 - ReLU activation: Introduces non-linearity without the vanishing gradient problem.
 
 <a>
-    <img src="assets/UnetXST.png" alt="Model Architecture" width="600" height="1500">
+    <img src="assets/UNetXST.png" alt="Model Architecture" width="600" height="1500">
 </a>
 
 ### Evaluation Metrics:
